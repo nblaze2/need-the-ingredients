@@ -1,0 +1,6 @@
+Steps I followed to add recipes:
+
+1. Set up Github
+2. used 'curl' to add 'ingredients' to 'recipe'
+  a. used model from previous article
+  b. 'curl --data "ingredient="1 1/2 pounds Brussels sprouts" http://localhost:4567/ingredients'

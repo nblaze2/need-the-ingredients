@@ -15,5 +15,5 @@ post '/ingredients' do
     file.puts(ingredient)
   end
 
-  redirect '/'
+  redirect '/ingredients'
 end
